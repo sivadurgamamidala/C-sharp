@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\bin\Debug\netcoreapp3.1\reverse_of_string.exe
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\bin\Debug\netcoreapp3.1\reverse_of_string.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\bin\Debug\netcoreapp3.1\reverse_of_string.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\bin\Debug\netcoreapp3.1\reverse_of_string.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\bin\Debug\netcoreapp3.1\reverse_of_string.dll
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\bin\Debug\netcoreapp3.1\reverse_of_string.pdb
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\obj\Debug\netcoreapp3.1\reverse_of_string.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\obj\Debug\netcoreapp3.1\reverse_of_string.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\obj\Debug\netcoreapp3.1\reverse_of_string.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\obj\Debug\netcoreapp3.1\reverse_of_string.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\obj\Debug\netcoreapp3.1\reverse_of_string.dll
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\obj\Debug\netcoreapp3.1\reverse_of_string.pdb
+C:\Users\sivadurga mamidala\Source\Repos\reverse_of_string\reverse_of_string\obj\Debug\netcoreapp3.1\reverse_of_string.genruntimeconfig.cache

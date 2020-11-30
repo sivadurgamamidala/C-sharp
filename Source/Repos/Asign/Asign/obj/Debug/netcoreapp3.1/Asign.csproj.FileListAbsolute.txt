@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\bin\Debug\netcoreapp3.1\Asign.exe
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\bin\Debug\netcoreapp3.1\Asign.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\bin\Debug\netcoreapp3.1\Asign.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\bin\Debug\netcoreapp3.1\Asign.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\bin\Debug\netcoreapp3.1\Asign.dll
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\bin\Debug\netcoreapp3.1\Asign.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\obj\Debug\netcoreapp3.1\Asign.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\obj\Debug\netcoreapp3.1\Asign.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\obj\Debug\netcoreapp3.1\Asign.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\obj\Debug\netcoreapp3.1\Asign.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\obj\Debug\netcoreapp3.1\Asign.dll
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\obj\Debug\netcoreapp3.1\Asign.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Asign\Asign\obj\Debug\netcoreapp3.1\Asign.genruntimeconfig.cache

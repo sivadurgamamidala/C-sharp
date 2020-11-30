@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\bin\Debug\netcoreapp3.1\files1.exe
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\bin\Debug\netcoreapp3.1\files1.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\bin\Debug\netcoreapp3.1\files1.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\bin\Debug\netcoreapp3.1\files1.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\bin\Debug\netcoreapp3.1\files1.dll
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\bin\Debug\netcoreapp3.1\files1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\obj\Debug\netcoreapp3.1\files1.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\obj\Debug\netcoreapp3.1\files1.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\obj\Debug\netcoreapp3.1\files1.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\obj\Debug\netcoreapp3.1\files1.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\obj\Debug\netcoreapp3.1\files1.dll
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\obj\Debug\netcoreapp3.1\files1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\files1\files1\obj\Debug\netcoreapp3.1\files1.genruntimeconfig.cache

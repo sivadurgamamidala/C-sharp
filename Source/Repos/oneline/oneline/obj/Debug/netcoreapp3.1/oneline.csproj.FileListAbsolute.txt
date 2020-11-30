@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\bin\Debug\netcoreapp3.1\oneline.exe
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\bin\Debug\netcoreapp3.1\oneline.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\bin\Debug\netcoreapp3.1\oneline.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\bin\Debug\netcoreapp3.1\oneline.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\bin\Debug\netcoreapp3.1\oneline.dll
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\bin\Debug\netcoreapp3.1\oneline.pdb
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\obj\Debug\netcoreapp3.1\oneline.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\obj\Debug\netcoreapp3.1\oneline.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\obj\Debug\netcoreapp3.1\oneline.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\obj\Debug\netcoreapp3.1\oneline.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\obj\Debug\netcoreapp3.1\oneline.dll
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\obj\Debug\netcoreapp3.1\oneline.pdb
+C:\Users\sivadurga mamidala\Source\Repos\oneline\oneline\obj\Debug\netcoreapp3.1\oneline.genruntimeconfig.cache

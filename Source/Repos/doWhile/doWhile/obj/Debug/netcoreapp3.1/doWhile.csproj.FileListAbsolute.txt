@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.exe
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.dll
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\bin\Debug\netcoreapp3.1\doWhile.pdb
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.dll
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.pdb
+C:\Users\sivadurga mamidala\Source\Repos\doWhile\doWhile\obj\Debug\netcoreapp3.1\doWhile.genruntimeconfig.cache

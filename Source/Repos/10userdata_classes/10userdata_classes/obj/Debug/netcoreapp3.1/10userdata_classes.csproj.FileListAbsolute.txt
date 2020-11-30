@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\bin\Debug\netcoreapp3.1\10userdata_classes.exe
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\bin\Debug\netcoreapp3.1\10userdata_classes.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\bin\Debug\netcoreapp3.1\10userdata_classes.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\bin\Debug\netcoreapp3.1\10userdata_classes.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\bin\Debug\netcoreapp3.1\10userdata_classes.dll
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\bin\Debug\netcoreapp3.1\10userdata_classes.pdb
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\obj\Debug\netcoreapp3.1\10userdata_classes.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\obj\Debug\netcoreapp3.1\10userdata_classes.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\obj\Debug\netcoreapp3.1\10userdata_classes.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\obj\Debug\netcoreapp3.1\10userdata_classes.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\obj\Debug\netcoreapp3.1\10userdata_classes.dll
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\obj\Debug\netcoreapp3.1\10userdata_classes.pdb
+C:\Users\sivadurga mamidala\Source\Repos\10userdata_classes\10userdata_classes\obj\Debug\netcoreapp3.1\10userdata_classes.genruntimeconfig.cache

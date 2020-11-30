@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\bin\Debug\netcoreapp3.1\Properties_get_set_methods.exe
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\bin\Debug\netcoreapp3.1\Properties_get_set_methods.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\bin\Debug\netcoreapp3.1\Properties_get_set_methods.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\bin\Debug\netcoreapp3.1\Properties_get_set_methods.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\bin\Debug\netcoreapp3.1\Properties_get_set_methods.dll
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\bin\Debug\netcoreapp3.1\Properties_get_set_methods.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\obj\Debug\netcoreapp3.1\Properties_get_set_methods.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\obj\Debug\netcoreapp3.1\Properties_get_set_methods.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\obj\Debug\netcoreapp3.1\Properties_get_set_methods.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\obj\Debug\netcoreapp3.1\Properties_get_set_methods.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\obj\Debug\netcoreapp3.1\Properties_get_set_methods.dll
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\obj\Debug\netcoreapp3.1\Properties_get_set_methods.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Properties_get_set_methods\Properties_get_set_methods\obj\Debug\netcoreapp3.1\Properties_get_set_methods.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\bin\Debug\netcoreapp3.1\Call-A-Method.exe
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\bin\Debug\netcoreapp3.1\Call-A-Method.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\bin\Debug\netcoreapp3.1\Call-A-Method.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\bin\Debug\netcoreapp3.1\Call-A-Method.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\bin\Debug\netcoreapp3.1\Call-A-Method.dll
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\bin\Debug\netcoreapp3.1\Call-A-Method.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\obj\Debug\netcoreapp3.1\Call-A-Method.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\obj\Debug\netcoreapp3.1\Call-A-Method.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\obj\Debug\netcoreapp3.1\Call-A-Method.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\obj\Debug\netcoreapp3.1\Call-A-Method.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\obj\Debug\netcoreapp3.1\Call-A-Method.dll
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\obj\Debug\netcoreapp3.1\Call-A-Method.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Call-A-Method\Call-A-Method\obj\Debug\netcoreapp3.1\Call-A-Method.genruntimeconfig.cache

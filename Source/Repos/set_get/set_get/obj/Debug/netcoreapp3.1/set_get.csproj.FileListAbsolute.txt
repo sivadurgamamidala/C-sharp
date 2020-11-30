@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\bin\Debug\netcoreapp3.1\set_get.exe
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\bin\Debug\netcoreapp3.1\set_get.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\bin\Debug\netcoreapp3.1\set_get.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\bin\Debug\netcoreapp3.1\set_get.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\bin\Debug\netcoreapp3.1\set_get.dll
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\bin\Debug\netcoreapp3.1\set_get.pdb
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\obj\Debug\netcoreapp3.1\set_get.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\obj\Debug\netcoreapp3.1\set_get.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\obj\Debug\netcoreapp3.1\set_get.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\obj\Debug\netcoreapp3.1\set_get.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\obj\Debug\netcoreapp3.1\set_get.dll
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\obj\Debug\netcoreapp3.1\set_get.pdb
+C:\Users\sivadurga mamidala\Source\Repos\set_get\set_get\obj\Debug\netcoreapp3.1\set_get.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\bin\Debug\netcoreapp3.1\FunctionDemo.exe
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\bin\Debug\netcoreapp3.1\FunctionDemo.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\bin\Debug\netcoreapp3.1\FunctionDemo.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\bin\Debug\netcoreapp3.1\FunctionDemo.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\bin\Debug\netcoreapp3.1\FunctionDemo.dll
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\bin\Debug\netcoreapp3.1\FunctionDemo.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\obj\Debug\netcoreapp3.1\FunctionDemo.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\obj\Debug\netcoreapp3.1\FunctionDemo.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\obj\Debug\netcoreapp3.1\FunctionDemo.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\obj\Debug\netcoreapp3.1\FunctionDemo.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\obj\Debug\netcoreapp3.1\FunctionDemo.dll
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\obj\Debug\netcoreapp3.1\FunctionDemo.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\FunctionDemo\obj\Debug\netcoreapp3.1\FunctionDemo.genruntimeconfig.cache

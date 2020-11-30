@@ -1,0 +1,12 @@
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.exe
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.dll
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.pdb
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.dll
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.pdb
+C:\Users\sivadurga mamidala\Source\Repos\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.exe
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.dll
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.dll
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.genruntimeconfig.cache

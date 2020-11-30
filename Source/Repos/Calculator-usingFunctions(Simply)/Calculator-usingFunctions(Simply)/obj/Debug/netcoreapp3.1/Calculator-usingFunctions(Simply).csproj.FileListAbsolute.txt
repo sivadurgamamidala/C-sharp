@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\bin\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).exe
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\bin\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\bin\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\bin\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\bin\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).dll
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\bin\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).pdb
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\obj\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\obj\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\obj\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\obj\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\obj\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).dll
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\obj\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).pdb
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-usingFunctions(Simply)\Calculator-usingFunctions(Simply)\obj\Debug\netcoreapp3.1\Calculator-usingFunctions(Simply).genruntimeconfig.cache

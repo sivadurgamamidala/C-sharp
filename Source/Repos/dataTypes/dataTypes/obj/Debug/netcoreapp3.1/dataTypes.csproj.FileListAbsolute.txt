@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.exe
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.dll
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\bin\Debug\netcoreapp3.1\dataTypes.pdb
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.dll
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.pdb
+C:\Users\sivadurga mamidala\Source\Repos\dataTypes\dataTypes\obj\Debug\netcoreapp3.1\dataTypes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\bin\Debug\netcoreapp3.1\assesment2.exe
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\bin\Debug\netcoreapp3.1\assesment2.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\bin\Debug\netcoreapp3.1\assesment2.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\bin\Debug\netcoreapp3.1\assesment2.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\bin\Debug\netcoreapp3.1\assesment2.dll
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\bin\Debug\netcoreapp3.1\assesment2.pdb
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\obj\Debug\netcoreapp3.1\assesment2.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\obj\Debug\netcoreapp3.1\assesment2.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\obj\Debug\netcoreapp3.1\assesment2.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\obj\Debug\netcoreapp3.1\assesment2.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\obj\Debug\netcoreapp3.1\assesment2.dll
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\obj\Debug\netcoreapp3.1\assesment2.pdb
+C:\Users\sivadurga mamidala\Source\Repos\assesment2\assesment2\obj\Debug\netcoreapp3.1\assesment2.genruntimeconfig.cache

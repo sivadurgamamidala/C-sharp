@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\bin\Debug\netcoreapp3.1\ages.exe
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\bin\Debug\netcoreapp3.1\ages.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\bin\Debug\netcoreapp3.1\ages.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\bin\Debug\netcoreapp3.1\ages.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\bin\Debug\netcoreapp3.1\ages.dll
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\bin\Debug\netcoreapp3.1\ages.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\obj\Debug\netcoreapp3.1\ages.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\obj\Debug\netcoreapp3.1\ages.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\obj\Debug\netcoreapp3.1\ages.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\obj\Debug\netcoreapp3.1\ages.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\obj\Debug\netcoreapp3.1\ages.dll
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\obj\Debug\netcoreapp3.1\ages.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Cars\ages\obj\Debug\netcoreapp3.1\ages.genruntimeconfig.cache

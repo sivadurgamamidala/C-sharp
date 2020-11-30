@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\bin\Debug\netcoreapp3.1\star123.exe
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\bin\Debug\netcoreapp3.1\star123.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\bin\Debug\netcoreapp3.1\star123.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\bin\Debug\netcoreapp3.1\star123.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\bin\Debug\netcoreapp3.1\star123.dll
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\bin\Debug\netcoreapp3.1\star123.pdb
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\obj\Debug\netcoreapp3.1\star123.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\obj\Debug\netcoreapp3.1\star123.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\obj\Debug\netcoreapp3.1\star123.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\obj\Debug\netcoreapp3.1\star123.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\obj\Debug\netcoreapp3.1\star123.dll
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\obj\Debug\netcoreapp3.1\star123.pdb
+C:\Users\sivadurga mamidala\Source\Repos\star123\star123\obj\Debug\netcoreapp3.1\star123.genruntimeconfig.cache

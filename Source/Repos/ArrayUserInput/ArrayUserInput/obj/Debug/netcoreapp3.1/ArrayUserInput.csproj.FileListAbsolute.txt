@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\bin\Debug\netcoreapp3.1\ArrayUserInput.exe
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\bin\Debug\netcoreapp3.1\ArrayUserInput.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\bin\Debug\netcoreapp3.1\ArrayUserInput.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\bin\Debug\netcoreapp3.1\ArrayUserInput.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\bin\Debug\netcoreapp3.1\ArrayUserInput.dll
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\bin\Debug\netcoreapp3.1\ArrayUserInput.pdb
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\obj\Debug\netcoreapp3.1\ArrayUserInput.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\obj\Debug\netcoreapp3.1\ArrayUserInput.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\obj\Debug\netcoreapp3.1\ArrayUserInput.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\obj\Debug\netcoreapp3.1\ArrayUserInput.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\obj\Debug\netcoreapp3.1\ArrayUserInput.dll
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\obj\Debug\netcoreapp3.1\ArrayUserInput.pdb
+C:\Users\sivadurga mamidala\Source\Repos\ArrayUserInput\ArrayUserInput\obj\Debug\netcoreapp3.1\ArrayUserInput.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\bin\Debug\netcoreapp3.1\seriresss112.exe
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\bin\Debug\netcoreapp3.1\seriresss112.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\bin\Debug\netcoreapp3.1\seriresss112.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\bin\Debug\netcoreapp3.1\seriresss112.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\bin\Debug\netcoreapp3.1\seriresss112.dll
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\bin\Debug\netcoreapp3.1\seriresss112.pdb
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\obj\Debug\netcoreapp3.1\seriresss112.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\obj\Debug\netcoreapp3.1\seriresss112.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\obj\Debug\netcoreapp3.1\seriresss112.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\obj\Debug\netcoreapp3.1\seriresss112.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\obj\Debug\netcoreapp3.1\seriresss112.dll
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\obj\Debug\netcoreapp3.1\seriresss112.pdb
+C:\Users\sivadurga mamidala\Source\Repos\seriresss112\seriresss112\obj\Debug\netcoreapp3.1\seriresss112.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\bin\Debug\netcoreapp3.1\convertionMethods.exe
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\bin\Debug\netcoreapp3.1\convertionMethods.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\bin\Debug\netcoreapp3.1\convertionMethods.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\bin\Debug\netcoreapp3.1\convertionMethods.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\bin\Debug\netcoreapp3.1\convertionMethods.dll
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\bin\Debug\netcoreapp3.1\convertionMethods.pdb
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\obj\Debug\netcoreapp3.1\convertionMethods.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\obj\Debug\netcoreapp3.1\convertionMethods.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\obj\Debug\netcoreapp3.1\convertionMethods.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\obj\Debug\netcoreapp3.1\convertionMethods.dll
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\obj\Debug\netcoreapp3.1\convertionMethods.pdb
+C:\Users\sivadurga mamidala\Source\Repos\convertionMethods\convertionMethods\obj\Debug\netcoreapp3.1\convertionMethods.genruntimeconfig.cache

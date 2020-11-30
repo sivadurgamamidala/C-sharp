@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\bin\Debug\netcoreapp3.1\calculator_using_objects.exe
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\bin\Debug\netcoreapp3.1\calculator_using_objects.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\bin\Debug\netcoreapp3.1\calculator_using_objects.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\bin\Debug\netcoreapp3.1\calculator_using_objects.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\bin\Debug\netcoreapp3.1\calculator_using_objects.dll
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\bin\Debug\netcoreapp3.1\calculator_using_objects.pdb
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\obj\Debug\netcoreapp3.1\calculator_using_objects.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\obj\Debug\netcoreapp3.1\calculator_using_objects.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\obj\Debug\netcoreapp3.1\calculator_using_objects.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\obj\Debug\netcoreapp3.1\calculator_using_objects.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\obj\Debug\netcoreapp3.1\calculator_using_objects.dll
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\obj\Debug\netcoreapp3.1\calculator_using_objects.pdb
+C:\Users\sivadurga mamidala\Source\Repos\calculator_using_objects\calculator_using_objects\obj\Debug\netcoreapp3.1\calculator_using_objects.genruntimeconfig.cache

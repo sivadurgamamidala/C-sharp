@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\bin\Debug\netcoreapp3.1\classsMembers.exe
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\bin\Debug\netcoreapp3.1\classsMembers.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\bin\Debug\netcoreapp3.1\classsMembers.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\bin\Debug\netcoreapp3.1\classsMembers.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\bin\Debug\netcoreapp3.1\classsMembers.dll
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\bin\Debug\netcoreapp3.1\classsMembers.pdb
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\obj\Debug\netcoreapp3.1\classsMembers.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\obj\Debug\netcoreapp3.1\classsMembers.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\obj\Debug\netcoreapp3.1\classsMembers.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\obj\Debug\netcoreapp3.1\classsMembers.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\obj\Debug\netcoreapp3.1\classsMembers.dll
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\obj\Debug\netcoreapp3.1\classsMembers.pdb
+C:\Users\sivadurga mamidala\Source\Repos\classsMembers\classsMembers\obj\Debug\netcoreapp3.1\classsMembers.genruntimeconfig.cache

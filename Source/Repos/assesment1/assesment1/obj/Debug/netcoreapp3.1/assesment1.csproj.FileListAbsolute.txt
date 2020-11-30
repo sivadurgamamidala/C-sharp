@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\bin\Debug\netcoreapp3.1\assesment1.exe
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\bin\Debug\netcoreapp3.1\assesment1.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\bin\Debug\netcoreapp3.1\assesment1.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\bin\Debug\netcoreapp3.1\assesment1.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\bin\Debug\netcoreapp3.1\assesment1.dll
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\bin\Debug\netcoreapp3.1\assesment1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\obj\Debug\netcoreapp3.1\assesment1.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\obj\Debug\netcoreapp3.1\assesment1.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\obj\Debug\netcoreapp3.1\assesment1.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\obj\Debug\netcoreapp3.1\assesment1.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\obj\Debug\netcoreapp3.1\assesment1.dll
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\obj\Debug\netcoreapp3.1\assesment1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\assesment1\assesment1\obj\Debug\netcoreapp3.1\assesment1.genruntimeconfig.cache

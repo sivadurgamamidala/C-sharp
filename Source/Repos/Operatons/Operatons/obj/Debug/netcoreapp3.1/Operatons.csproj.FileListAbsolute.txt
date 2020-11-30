@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\bin\Debug\netcoreapp3.1\Operatons.exe
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\bin\Debug\netcoreapp3.1\Operatons.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\bin\Debug\netcoreapp3.1\Operatons.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\bin\Debug\netcoreapp3.1\Operatons.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\bin\Debug\netcoreapp3.1\Operatons.dll
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\bin\Debug\netcoreapp3.1\Operatons.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\obj\Debug\netcoreapp3.1\Operatons.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\obj\Debug\netcoreapp3.1\Operatons.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\obj\Debug\netcoreapp3.1\Operatons.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\obj\Debug\netcoreapp3.1\Operatons.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\obj\Debug\netcoreapp3.1\Operatons.dll
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\obj\Debug\netcoreapp3.1\Operatons.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Operatons\Operatons\obj\Debug\netcoreapp3.1\Operatons.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\bin\Debug\netcoreapp3.1\polymorphism_simple.exe
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\bin\Debug\netcoreapp3.1\polymorphism_simple.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\bin\Debug\netcoreapp3.1\polymorphism_simple.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\bin\Debug\netcoreapp3.1\polymorphism_simple.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\bin\Debug\netcoreapp3.1\polymorphism_simple.dll
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\bin\Debug\netcoreapp3.1\polymorphism_simple.pdb
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\obj\Debug\netcoreapp3.1\polymorphism_simple.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\obj\Debug\netcoreapp3.1\polymorphism_simple.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\obj\Debug\netcoreapp3.1\polymorphism_simple.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\obj\Debug\netcoreapp3.1\polymorphism_simple.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\obj\Debug\netcoreapp3.1\polymorphism_simple.dll
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\obj\Debug\netcoreapp3.1\polymorphism_simple.pdb
+C:\Users\sivadurga mamidala\Source\Repos\polymorphism_simple\polymorphism_simple\obj\Debug\netcoreapp3.1\polymorphism_simple.genruntimeconfig.cache

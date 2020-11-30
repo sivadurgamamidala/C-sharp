@@ -1,0 +1,12 @@
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\bin\Debug\netcoreapp3.1\Multiple Classes.exe
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\bin\Debug\netcoreapp3.1\Multiple Classes.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\bin\Debug\netcoreapp3.1\Multiple Classes.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\bin\Debug\netcoreapp3.1\Multiple Classes.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\bin\Debug\netcoreapp3.1\Multiple Classes.dll
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\bin\Debug\netcoreapp3.1\Multiple Classes.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\obj\Debug\netcoreapp3.1\Multiple Classes.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\obj\Debug\netcoreapp3.1\Multiple Classes.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\obj\Debug\netcoreapp3.1\Multiple Classes.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\obj\Debug\netcoreapp3.1\Multiple Classes.dll
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\obj\Debug\netcoreapp3.1\Multiple Classes.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Multiple Classes\Multiple Classes\obj\Debug\netcoreapp3.1\Multiple Classes.genruntimeconfig.cache

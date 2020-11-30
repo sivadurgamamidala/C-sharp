@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\bin\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.exe
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\bin\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\bin\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\bin\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\bin\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.dll
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\bin\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\obj\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\obj\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\obj\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\obj\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\obj\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.dll
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\obj\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Series_1,2,3,7,16,41,105,274,715\Series_1,2,3,7,16,41,105,274,715\obj\Debug\netcoreapp3.1\Series_1,2,3,7,16,41,105,274,715.genruntimeconfig.cache

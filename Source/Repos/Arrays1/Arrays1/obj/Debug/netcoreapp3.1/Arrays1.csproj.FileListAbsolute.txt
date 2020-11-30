@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.exe
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.dll
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\bin\Debug\netcoreapp3.1\Arrays1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.dll
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.genruntimeconfig.cache
+C:\Users\sivadurga mamidala\Source\Repos\Arrays1\Arrays1\obj\Debug\netcoreapp3.1\Arrays1.csprojAssemblyReference.cache

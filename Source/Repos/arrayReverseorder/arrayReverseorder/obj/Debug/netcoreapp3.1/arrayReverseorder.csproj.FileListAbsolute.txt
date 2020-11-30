@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\bin\Debug\netcoreapp3.1\arrayReverseorder.exe
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\bin\Debug\netcoreapp3.1\arrayReverseorder.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\bin\Debug\netcoreapp3.1\arrayReverseorder.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\bin\Debug\netcoreapp3.1\arrayReverseorder.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\bin\Debug\netcoreapp3.1\arrayReverseorder.dll
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\bin\Debug\netcoreapp3.1\arrayReverseorder.pdb
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\obj\Debug\netcoreapp3.1\arrayReverseorder.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\obj\Debug\netcoreapp3.1\arrayReverseorder.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\obj\Debug\netcoreapp3.1\arrayReverseorder.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\obj\Debug\netcoreapp3.1\arrayReverseorder.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\obj\Debug\netcoreapp3.1\arrayReverseorder.dll
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\obj\Debug\netcoreapp3.1\arrayReverseorder.pdb
+C:\Users\sivadurga mamidala\Source\Repos\arrayReverseorder\arrayReverseorder\obj\Debug\netcoreapp3.1\arrayReverseorder.genruntimeconfig.cache

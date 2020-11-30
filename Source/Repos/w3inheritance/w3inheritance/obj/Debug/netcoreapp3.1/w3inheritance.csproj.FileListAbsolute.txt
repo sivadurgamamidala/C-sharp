@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\bin\Debug\netcoreapp3.1\w3inheritance.exe
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\bin\Debug\netcoreapp3.1\w3inheritance.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\bin\Debug\netcoreapp3.1\w3inheritance.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\bin\Debug\netcoreapp3.1\w3inheritance.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\bin\Debug\netcoreapp3.1\w3inheritance.dll
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\bin\Debug\netcoreapp3.1\w3inheritance.pdb
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\obj\Debug\netcoreapp3.1\w3inheritance.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\obj\Debug\netcoreapp3.1\w3inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\obj\Debug\netcoreapp3.1\w3inheritance.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\obj\Debug\netcoreapp3.1\w3inheritance.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\obj\Debug\netcoreapp3.1\w3inheritance.dll
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\obj\Debug\netcoreapp3.1\w3inheritance.pdb
+C:\Users\sivadurga mamidala\Source\Repos\w3inheritance\w3inheritance\obj\Debug\netcoreapp3.1\w3inheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\bin\Debug\netcoreapp3.1\test21.exe
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\bin\Debug\netcoreapp3.1\test21.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\bin\Debug\netcoreapp3.1\test21.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\bin\Debug\netcoreapp3.1\test21.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\bin\Debug\netcoreapp3.1\test21.dll
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\bin\Debug\netcoreapp3.1\test21.pdb
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\obj\Debug\netcoreapp3.1\test21.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\obj\Debug\netcoreapp3.1\test21.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\obj\Debug\netcoreapp3.1\test21.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\obj\Debug\netcoreapp3.1\test21.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\obj\Debug\netcoreapp3.1\test21.dll
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\obj\Debug\netcoreapp3.1\test21.pdb
+C:\Users\sivadurga mamidala\Source\Repos\test21\test21\obj\Debug\netcoreapp3.1\test21.genruntimeconfig.cache

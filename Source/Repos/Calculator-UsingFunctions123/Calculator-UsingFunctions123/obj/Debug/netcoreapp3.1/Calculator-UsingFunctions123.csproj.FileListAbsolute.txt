@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\bin\Debug\netcoreapp3.1\Calculator-UsingFunctions123.exe
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\bin\Debug\netcoreapp3.1\Calculator-UsingFunctions123.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\bin\Debug\netcoreapp3.1\Calculator-UsingFunctions123.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\bin\Debug\netcoreapp3.1\Calculator-UsingFunctions123.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\bin\Debug\netcoreapp3.1\Calculator-UsingFunctions123.dll
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\bin\Debug\netcoreapp3.1\Calculator-UsingFunctions123.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\obj\Debug\netcoreapp3.1\Calculator-UsingFunctions123.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\obj\Debug\netcoreapp3.1\Calculator-UsingFunctions123.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\obj\Debug\netcoreapp3.1\Calculator-UsingFunctions123.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\obj\Debug\netcoreapp3.1\Calculator-UsingFunctions123.dll
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\obj\Debug\netcoreapp3.1\Calculator-UsingFunctions123.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\obj\Debug\netcoreapp3.1\Calculator-UsingFunctions123.genruntimeconfig.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator-UsingFunctions123\Calculator-UsingFunctions123\obj\Debug\netcoreapp3.1\Calculator-UsingFunctions123.csprojAssemblyReference.cache

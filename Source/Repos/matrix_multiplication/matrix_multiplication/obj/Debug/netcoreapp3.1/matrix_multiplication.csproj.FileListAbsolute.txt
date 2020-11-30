@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\bin\Debug\netcoreapp3.1\matrix_multiplication.exe
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\bin\Debug\netcoreapp3.1\matrix_multiplication.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\bin\Debug\netcoreapp3.1\matrix_multiplication.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\bin\Debug\netcoreapp3.1\matrix_multiplication.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\bin\Debug\netcoreapp3.1\matrix_multiplication.dll
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\bin\Debug\netcoreapp3.1\matrix_multiplication.pdb
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\obj\Debug\netcoreapp3.1\matrix_multiplication.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\obj\Debug\netcoreapp3.1\matrix_multiplication.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\obj\Debug\netcoreapp3.1\matrix_multiplication.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\obj\Debug\netcoreapp3.1\matrix_multiplication.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\obj\Debug\netcoreapp3.1\matrix_multiplication.dll
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\obj\Debug\netcoreapp3.1\matrix_multiplication.pdb
+C:\Users\sivadurga mamidala\Source\Repos\matrix_multiplication\matrix_multiplication\obj\Debug\netcoreapp3.1\matrix_multiplication.genruntimeconfig.cache

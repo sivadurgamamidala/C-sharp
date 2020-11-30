@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\bin\Debug\netcoreapp3.1\Continues123.exe
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\bin\Debug\netcoreapp3.1\Continues123.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\bin\Debug\netcoreapp3.1\Continues123.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\bin\Debug\netcoreapp3.1\Continues123.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\bin\Debug\netcoreapp3.1\Continues123.dll
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\bin\Debug\netcoreapp3.1\Continues123.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\obj\Debug\netcoreapp3.1\Continues123.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\obj\Debug\netcoreapp3.1\Continues123.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\obj\Debug\netcoreapp3.1\Continues123.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\obj\Debug\netcoreapp3.1\Continues123.dll
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\obj\Debug\netcoreapp3.1\Continues123.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\obj\Debug\netcoreapp3.1\Continues123.genruntimeconfig.cache
+C:\Users\sivadurga mamidala\Source\Repos\Continues123\Continues123\obj\Debug\netcoreapp3.1\Continues123.csprojAssemblyReference.cache

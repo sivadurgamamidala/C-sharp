@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\bin\Debug\netcoreapp3.1\test12.exe
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\bin\Debug\netcoreapp3.1\test12.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\bin\Debug\netcoreapp3.1\test12.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\bin\Debug\netcoreapp3.1\test12.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\bin\Debug\netcoreapp3.1\test12.dll
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\bin\Debug\netcoreapp3.1\test12.pdb
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\obj\Debug\netcoreapp3.1\test12.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\obj\Debug\netcoreapp3.1\test12.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\obj\Debug\netcoreapp3.1\test12.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\obj\Debug\netcoreapp3.1\test12.dll
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\obj\Debug\netcoreapp3.1\test12.pdb
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\obj\Debug\netcoreapp3.1\test12.genruntimeconfig.cache
+C:\Users\sivadurga mamidala\Source\Repos\test12\test12\obj\Debug\netcoreapp3.1\test12.csprojAssemblyReference.cache

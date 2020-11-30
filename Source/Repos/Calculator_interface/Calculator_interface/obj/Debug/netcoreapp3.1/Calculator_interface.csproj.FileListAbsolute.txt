@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\bin\Debug\netcoreapp3.1\Calculator_interface.exe
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\bin\Debug\netcoreapp3.1\Calculator_interface.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\bin\Debug\netcoreapp3.1\Calculator_interface.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\bin\Debug\netcoreapp3.1\Calculator_interface.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\bin\Debug\netcoreapp3.1\Calculator_interface.dll
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\bin\Debug\netcoreapp3.1\Calculator_interface.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\obj\Debug\netcoreapp3.1\Calculator_interface.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\obj\Debug\netcoreapp3.1\Calculator_interface.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\obj\Debug\netcoreapp3.1\Calculator_interface.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\obj\Debug\netcoreapp3.1\Calculator_interface.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\obj\Debug\netcoreapp3.1\Calculator_interface.dll
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\obj\Debug\netcoreapp3.1\Calculator_interface.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Calculator_interface\Calculator_interface\obj\Debug\netcoreapp3.1\Calculator_interface.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.exe
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.dll
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\bin\Debug\netcoreapp3.1\Assessment3.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.dll
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Assessment3\Assessment3\obj\Debug\netcoreapp3.1\Assessment3.genruntimeconfig.cache

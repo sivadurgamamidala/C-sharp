@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\bin\Debug\netcoreapp3.1\String1.exe
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\bin\Debug\netcoreapp3.1\String1.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\bin\Debug\netcoreapp3.1\String1.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\bin\Debug\netcoreapp3.1\String1.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\bin\Debug\netcoreapp3.1\String1.dll
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\bin\Debug\netcoreapp3.1\String1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\obj\Debug\netcoreapp3.1\String1.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\obj\Debug\netcoreapp3.1\String1.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\obj\Debug\netcoreapp3.1\String1.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\obj\Debug\netcoreapp3.1\String1.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\obj\Debug\netcoreapp3.1\String1.dll
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\obj\Debug\netcoreapp3.1\String1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\String1\String1\obj\Debug\netcoreapp3.1\String1.genruntimeconfig.cache

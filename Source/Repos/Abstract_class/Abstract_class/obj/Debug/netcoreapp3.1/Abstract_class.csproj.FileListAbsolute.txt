@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\bin\Debug\netcoreapp3.1\Abstract_class.exe
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\bin\Debug\netcoreapp3.1\Abstract_class.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\bin\Debug\netcoreapp3.1\Abstract_class.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\bin\Debug\netcoreapp3.1\Abstract_class.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\bin\Debug\netcoreapp3.1\Abstract_class.dll
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\bin\Debug\netcoreapp3.1\Abstract_class.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\obj\Debug\netcoreapp3.1\Abstract_class.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\obj\Debug\netcoreapp3.1\Abstract_class.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\obj\Debug\netcoreapp3.1\Abstract_class.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\obj\Debug\netcoreapp3.1\Abstract_class.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\obj\Debug\netcoreapp3.1\Abstract_class.dll
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\obj\Debug\netcoreapp3.1\Abstract_class.pdb
+C:\Users\sivadurga mamidala\Source\Repos\Abstract_class\Abstract_class\obj\Debug\netcoreapp3.1\Abstract_class.genruntimeconfig.cache

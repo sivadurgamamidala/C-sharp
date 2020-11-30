@@ -1,0 +1,13 @@
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\bin\Debug\netcoreapp3.1\switch1.exe
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\bin\Debug\netcoreapp3.1\switch1.deps.json
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\bin\Debug\netcoreapp3.1\switch1.runtimeconfig.json
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\bin\Debug\netcoreapp3.1\switch1.runtimeconfig.dev.json
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\bin\Debug\netcoreapp3.1\switch1.dll
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\bin\Debug\netcoreapp3.1\switch1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\obj\Debug\netcoreapp3.1\switch1.csprojAssemblyReference.cache
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\obj\Debug\netcoreapp3.1\switch1.csproj.CoreCompileInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\obj\Debug\netcoreapp3.1\switch1.AssemblyInfoInputs.cache
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\obj\Debug\netcoreapp3.1\switch1.AssemblyInfo.cs
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\obj\Debug\netcoreapp3.1\switch1.dll
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\obj\Debug\netcoreapp3.1\switch1.pdb
+C:\Users\sivadurga mamidala\Source\Repos\switch1\switch1\obj\Debug\netcoreapp3.1\switch1.genruntimeconfig.cache
